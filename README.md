@@ -1,5 +1,5 @@
-# Build and deploy machine learning web app using PyCaret and Streamlit
-#### A beginner's guide to deploy machine learning app on Heroku PaaS
+# Deploy PyCaret and Streamlit app using serverless infrastructure on AWS Fargate
+#### A step-by-step tutorial to containerize machine learning app and deploy it using serverless infrastructure
 
 Read the complete post: XXXX
 
