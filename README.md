@@ -1,7 +1,7 @@
 # Deploy PyCaret and Streamlit app using serverless infrastructure on AWS Fargate
 #### A step-by-step tutorial to containerize machine learning app and deploy it using serverless infrastructure
 
-Read the complete post: XXXX
+Read the complete post: https://medium.com/@moez_62905/deploy-pycaret-and-streamlit-app-using-aws-fargate-serverless-infrastructure-8b7d7c0584c2
 
 - Official Website : https://www.pycaret.org
 
